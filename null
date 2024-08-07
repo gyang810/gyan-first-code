@@ -1,0 +1,8 @@
+
+Pinging 10.210.9.24 with 32 bytes of data:
+Reply from 10.210.9.24: bytes=32 time=16ms TTL=252
+
+Ping statistics for 10.210.9.24:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 16ms, Maximum = 16ms, Average = 16ms
